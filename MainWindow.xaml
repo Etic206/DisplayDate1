@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DisplayDate"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button>Hello</Button>
-    </Grid>
+        <WrapPanel>
+        <Label>Date Label</Label>
+        </WrapPanel>
 </Window>
