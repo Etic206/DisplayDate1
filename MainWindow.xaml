@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
         <WrapPanel>
-        <Label>Date Label</Label>
+        <Label x:Name="DateLabel">Example</Label>
         </WrapPanel>
 </Window>
